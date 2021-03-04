@@ -1,0 +1,68 @@
+{
+    "title": "Home",
+    "swiper": [{
+            "name": "Denim Jackets",
+            "subtitle": "Just arrived",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "button": "View collection",
+            "link": "/category",
+            "img": "/img/photo/matheus-ferrero-334418-unsplash.jpg",
+            "subtitleclass": "text-uppercase text-white font-weight-light mb-4 letter-spacing-5",
+            "titleclass": "mb-5 display-2 font-weight-bold text-serif",
+            "rowclass": "justify-content-center text-center text-white"
+            
+        },
+        {
+            "name": "Skeleton Tees",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "button": "Start shopping",
+            "link": "/category-2",
+            "img": "/img/photo/ian-dooley-347942-unsplash.jpg",
+            "rowclass": "justify-content-center text-center text-white",
+            "subtitleclass": "text-dark mb-3",
+            "titleclass": "mb-4 display-2 text-uppercase font-weight-bold",
+            "darkOverlay" : true
+        },
+        {
+            "name": "Skinny Jeans",
+            "subtitle": "Our bestseller",
+            "button": "View Collection",
+            "link": "/category",
+            "img": "/img/photo/haley-phelps-62815-unsplash.jpg",
+            "subtitleclass": "text-uppercase font-weight-light mb-4 letter-spacing-5",
+            "titleclass": "mb-5 display-1 font-weight-bold text-serif",
+            "rowclass": "justify-content-center text-center text-white",
+            "darkOverlay" : true
+        }
+    ],
+    "lookbook": [{
+            "title": "Top picks",
+            "link": "/category",
+            "image": "/img/photo/christopher-campbell-28571-unsplash.jpg"
+        },
+        {
+            "title": "New arrivals",
+            "link": "/category",
+            "image": "/img/photo/marco-xu-496929-unsplash.jpg"
+        },
+        {
+            "title": "Jackets",
+            "link": "/category",
+            "image": "/img/photo/benjamin-voros-260869-unsplash.jpg"
+
+        },
+        {
+            "title": "Lookbook",
+            "link": "/category",
+            "image": "/img/photo/malvestida-magazine-458585-unsplash.jpg"
+
+        },
+        {
+            "title": "Try this",
+            "link": "/category",
+            "image": "/img/photo/michael-frattaroli-221247-unsplash.jpg",
+            "textColor": "text-dark"
+
+        }
+    ]
+}

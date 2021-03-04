@@ -1,0 +1,38 @@
+{
+  "name": "template_sell_react",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@react-hook/size": "^2.1.1",
+    "@react-hook/window-scroll": "^1.3.0",
+    "classnames": "^2.2.6",
+    "leaflet": "^1.7.1",
+    "next": "^10.0.7",
+    "next-compose-plugins": "^2.2.1",
+    "next-react-svg": "^1.1.2",
+    "nouislider-react": "^3.3.9",
+    "nprogress": "^0.2.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-id-swiper": "^4.0.0",
+    "react-image-lightbox": "^5.1.1",
+    "react-leaflet": "^2.8.0",
+    "react-magnifier": "^3.0.4",
+    "react-parallax": "^3.2.1",
+    "react-responsive-masonry": "^2.1.1",
+    "react-scroll": "^1.8.1",
+    "react-select": "^3.2.0",
+    "react-syntax-highlighter": "^15.4.3",
+    "reactstrap": "^8.9.0",
+    "sass": "^1.32.8",
+    "swiper": "^5.4.5"
+  },
+  "prettier": {
+    "trailingComma": "es5"
+  }
+}
