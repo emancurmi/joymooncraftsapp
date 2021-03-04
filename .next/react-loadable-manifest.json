@@ -1,8 +1,64 @@
 {
-  "./dev/noop": [
+  "../components/Map": [
     {
-      "id": "./node_modules/next/dist/client/dev/noop.js",
-      "file": "static/chunks/0.js"
+      "id": "4R65",
+      "file": "static/chunks/0b7b90cd.46198863f7812e3fe96e.js"
+    },
+    {
+      "id": "",
+      "file": "static/css/485c99c71412a58ee2bc.css"
+    },
+    {
+      "id": "2mql",
+      "file": "static/css/485c99c71412a58ee2bc.css"
+    },
+    {
+      "id": "Nuzl",
+      "file": "static/css/485c99c71412a58ee2bc.css"
+    },
+    {
+      "id": "SVAT",
+      "file": "static/css/485c99c71412a58ee2bc.css"
+    },
+    {
+      "id": "TOwV",
+      "file": "static/css/485c99c71412a58ee2bc.css"
+    },
+    {
+      "id": "bMVF",
+      "file": "static/css/485c99c71412a58ee2bc.css"
+    },
+    {
+      "id": "qT12",
+      "file": "static/css/485c99c71412a58ee2bc.css"
+    },
+    {
+      "id": "",
+      "file": "static/chunks/22.b4e67e02f06dc9767469.js"
+    },
+    {
+      "id": "2mql",
+      "file": "static/chunks/22.b4e67e02f06dc9767469.js"
+    },
+    {
+      "id": "Nuzl",
+      "file": "static/chunks/22.b4e67e02f06dc9767469.js"
+    },
+    {
+      "id": "SVAT",
+      "file": "static/chunks/22.b4e67e02f06dc9767469.js"
+    },
+    {
+      "id": "TOwV",
+      "file": "static/chunks/22.b4e67e02f06dc9767469.js"
+    },
+    {
+      "id": "bMVF",
+      "file": "static/chunks/22.b4e67e02f06dc9767469.js"
+    },
+    {
+      "id": "qT12",
+      "file": "static/chunks/22.b4e67e02f06dc9767469.js"
     }
   ]
 }

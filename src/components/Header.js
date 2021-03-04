@@ -128,7 +128,7 @@ const Header = (props) => {
                     <svg className="svg-icon mr-2">
                       <use xlinkHref="/icons/orion-svg-sprite.svg#calls-1"></use>
                     </svg>
-                    020-800-456-747
+                    +1 917 201 8353
                   </li>
                   <li className="list-inline-item px-3 border-left d-none d-lg-inline-block">
                     Free shipping on orders over $300

@@ -165,7 +165,7 @@ const Footer = () => {
           <div className="row align-items-center">
             <div className="col-md-6 text-center text-md-left">
                           <p className="mb-md-0">
-                              © 2021 Joy Moon Crafts. All rights reserved. <br/> Designed & Developed by <a href="www.orpyxis.com" target="_blank">Orpyxis Technologies</a>
+                              © 2021 Joy Moon Crafts. All rights reserved. <br/> Designed & Developed by <a href="https://www.orpyxis.com" target="_blank">Orpyxis Technologies</a>
               </p>
             </div>
             <div className="col-md-6">

@@ -41,7 +41,7 @@ const Layout = (pageProps) => {
           href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
           rel="stylesheet"
         />
-        <title>{pageProps.title} - Sell Theme [React]</title>
+        <title>{pageProps.title} - Joy Moon Crafts</title>
       </Head>
 
       <NextNProgress color="#3494E6" options={{ showSpinner: false }} />
